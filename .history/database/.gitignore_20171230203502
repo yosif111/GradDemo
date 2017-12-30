@@ -1,0 +1,4 @@
+*.sqlite
+./history
+history*
+.history*
